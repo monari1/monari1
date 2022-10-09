@@ -1,6 +1,6 @@
 <img src="https://images.unsplash.com/photo-1599790772272-d1425cd3242e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80" alt="Frank's Readme" width = "1000" height = "800">
 <h1 align="center">Hi 👋, I'm Francis Monari</h1>
-<h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
+<h3 align="center">A passionate programmer and 3D animator from Nairobi, Kenya</h3>
 <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="Frank's Readme" width = "1000" height = "800">
 
 
