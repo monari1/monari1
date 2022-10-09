@@ -1,7 +1,7 @@
-
+<img src="https://images.unsplash.com/photo-1599790772272-d1425cd3242e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80" alt="Frank's Readme" width = "1000" height = "800">
 <h1 align="center">Hi 👋, I'm Francis Monari</h1>
 <h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
-<img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="Frank's Readme" width="700" height="600">
+<img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="Frank's Readme" width = "1000" height = "800">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monari1&label=Profile%20views&color=0e75b6&style=flat" alt="monari1" /> </p>
